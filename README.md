@@ -1,31 +1,106 @@
-# Data Structures & Algorithms (DSA) Solutions in Java ☕
+Java DSA Placement Practice 🚀
 
-Welcome to my DSA repository! This project serves as a centralized hub where I document my journey solving coding challenges, optimizing algorithms, and mastering core data structures using **Java**.
+A collection of 20 medium-level Java programming and DSA problems designed for coding practice, technical interviews, and placement preparation.
 
-## 🚀 Repository Structure
-The code is organized by data structures and algorithmic paradigms for easy navigation:
+📚 Problems Covered
 
-* 📁 `arrays-strings/` — Array manipulation, two-pointer approach, sliding window.
-* 📁 `linked-lists/` — Singly, doubly, and circular linked list implementations and problems.
-* 📁 `stacks-queues/` — Custom implementations, expression evaluation, and monotonic stacks.
-* 📁 `trees-graphs/` — Binary trees, BSTs, DFS, BFS, and shortest path algorithms.
-* 📁 `sorting-searching/` — Binary search variations, quicksort, mergesort.
-* 📁 `dynamic-programming/` — Memoization and tabulation solutions to classic DP problems.
 
-## 🛠️ Languages and Tools Used
-* **Language:** Java (JDK 17 or higher)
-* **Platforms Practiced:** LeetCode, HackerRank, GeeksforGeeks
+🔢 Array Programs
 
-## 📈 Learning Roadmap & Goals
-- [ ] Master fundamental linear data structures (Arrays, Linked Lists).
-- [ ] Solve 100+ LeetCode problems (Easy/Medium).
-- [ ] Dive deep into Advanced Graph algorithms and Dynamic Programming.
-- [ ] Optimize time and space complexity ($O(N)$ runtime targets).
+Second Largest Element in an Array
 
-## 🧑‍💻 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com
-   ```
-2. Open the project in your favorite IDE (IntelliJ IDEA, Eclipse, or VS Code).
-3. Navigate to the specific file and run the `main` method.
+Find Duplicate Elements
+
+Remove Duplicate Elements
+
+Frequency of Array Elements
+
+Find Missing Number
+
+Move All Zeros to the End
+
+Rotate an Array by K Positions
+
+Maximum Subarray Sum – Kadane's Algorithm
+
+Find Pair with Given Sum
+
+Merge Two Sorted Arrays
+
+
+
+🔤 String Programs
+
+Check Whether Two Strings Are Anagrams
+
+First Non-Repeating Character
+
+Remove Duplicate Characters from String
+
+Find the Longest Word in a Sentence
+
+Reverse Words in a Sentence
+
+Count Vowels, Consonants, Digits and Special Characters
+
+
+
+🔢 Number Programs
+
+Palindrome Number Without String
+
+Armstrong Numbers in a Range
+
+Prime Numbers in a Range
+
+Decimal to Binary Without Built-in Methods
+
+🛠️ Technology Used
+
+Java
+
+Core Java
+
+Arrays
+
+Strings
+
+Loops
+
+Mathematical Operations
+
+Basic DSA Concepts
+
+
+
+🎯 Purpose
+
+This repository is created to:
+
+Strengthen Java programming fundamentals
+
+Practice DSA problem-solving
+
+Improve logical thinking
+
+Prepare for coding interviews
+
+Prepare for placement coding rounds
+
+
+
+📊 Progress
+Category	Problems	Status
+Arrays	10	✅ Completed
+Strings	6	✅ Completed
+Numbers	4	✅ Completed
+Total	20	✅ Completed
+
+
+👨‍💻 Author
+
+NITHIN R
+
+Java | DSA | Problem Solving | Placement Preparation
+
+⭐ If this repository helps you, consider giving it a star!
