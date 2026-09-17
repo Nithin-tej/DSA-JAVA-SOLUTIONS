@@ -10,7 +10,7 @@ class Solution {
 
 
         while (i >= 0 && s.charAt(i) != ' ') {
-            length++; //  
+            length++; 
             i--;
         }
         return length; //      
