@@ -1,6 +1,6 @@
 Java DSA Placement Practice 🚀
 
-A collection of 20 medium-level Java programming and DSA problems designed for coding practice, technical interviews, and placement preparation.
+A collection of 20 Easy-level Java programming and DSA problems designed for coding practice, technical interviews, and placement preparation.
 
 📚 Problems Covered
 
