@@ -1,8 +1,8 @@
 Java DSA Placement Practice 🚀
 
-Java Skill Enhancement – 20 Programs
+Java Skill Enhancement – 50 Programs
 
-This repository contains 20 Java programs based on LeetCode-style problems. The programs cover numbers, conditions, loops, binary operations, and strings.
+This repository contains 50 Java programs based on LeetCode-style problems. The programs cover numbers, conditions, loops, binary operations, and strings.
 
 ---
 
